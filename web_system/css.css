@@ -1,0 +1,306 @@
+.card-body{
+    opacity: 1;
+    transform: translateY(0);
+}
+#iconfb1{
+    opacity: 0;
+    border-radius: 100%;
+    transform: translateY(60px);
+    transition: 0.5s;
+}
+#iconmap{
+    border-radius: 100%;
+    opacity: 0;
+    transform: translateY(60px);
+    transition: 0.5s;
+}
+
+#iconfb1:hover:before{
+    opacity: 1;
+}
+
+.xyz:hover #iconfb1{
+    opacity: 1;
+    transform: translateY(0);
+}
+#iconmap:hover:before{
+    opacity: 1;
+}
+
+.xyz:hover #iconmap{
+    opacity: 1;
+    transform: translateY(0);
+}
+/*=======================================*/
+
+.card-body{
+    opacity: 1;
+    transform: translateY(0);
+}
+#iconfb2{
+    opacity: 0;
+    border-radius: 100%;
+    transform: translateY(60px);
+    transition: 0.5s;
+}
+#iconmap1{
+    border-radius: 100%;
+    opacity: 0;
+    transform: translateY(60px);
+    transition: 0.5s;
+}
+
+#iconfb2:hover:before{
+    opacity: 1;
+}
+
+.xyz:hover #iconfb2{
+    opacity: 1;
+    transform: translateY(0);
+}
+#iconmap1:hover:before{
+    opacity: 1;
+}
+
+.xyz:hover #iconmap1{
+    opacity: 1;
+    transform: translateY(0);
+}
+/*==========================================*/
+.card-body{
+    opacity: 1;
+    transform: translateY(0);
+}
+#iconfb4{
+    opacity: 0;
+    border-radius: 100%;
+    transform: translateY(60px);
+    transition: 0.5s;
+}
+#iconmap3{
+    border-radius: 100%;
+    opacity: 0;
+    transform: translateY(60px);
+    transition: 0.5s;
+}
+
+#iconfb4:hover:before{
+    opacity: 1;
+}
+
+.xyz:hover #iconfb4{
+    opacity: 1;
+    transform: translateY(0);
+}
+#iconmap2:hover:before{
+    opacity: 1;
+}
+
+.xyz:hover #iconmap3{
+    opacity: 1;
+    transform: translateY(0);
+}
+/*==========================================*/
+.card-body{
+    opacity: 1;
+    transform: translateY(0);
+}
+#iconfb5{
+    opacity: 0;
+    border-radius: 100%;
+    transform: translateY(60px);
+    transition: 0.5s;
+}
+#iconmap4{
+    border-radius: 100%;
+    opacity: 0;
+    transform: translateY(60px);
+    transition: 0.5s;
+}
+
+#iconfb3:hover:before{
+    opacity: 1;
+}
+
+.xyz:hover #iconfb5{
+    opacity: 1;
+    transform: translateY(0);
+}
+#iconmap4:hover:before{
+    opacity: 1;
+}
+
+.xyz:hover #iconmap4{
+    opacity: 1;
+    transform: translateY(0);
+}
+/*==========================================*/
+.card-body{
+    opacity: 1;
+    transform: translateY(0);
+}
+#iconfb6{
+    opacity: 0;
+    border-radius: 100%;
+    transform: translateY(60px);
+    transition: 0.5s;
+}
+#iconmap5{
+    border-radius: 100%;
+    opacity: 0;
+    transform: translateY(60px);
+    transition: 0.5s;
+}
+
+#iconfb6:hover:before{
+    opacity: 1;
+}
+
+.xyz:hover #iconfb6{
+    opacity: 1;
+    transform: translateY(0);
+}
+#iconmap5:hover:before{
+    opacity: 1;
+}
+
+.xyz:hover #iconmap5{
+    opacity: 1;
+    transform: translateY(0);
+}
+/*==========================================*/
+.card-body{
+    opacity: 1;
+    transform: translateY(0);
+}
+#iconfb7{
+    opacity: 0;
+    border-radius: 100%;
+    transform: translateY(60px);
+    transition: 0.5s;
+}
+#iconmap6{
+    border-radius: 100%;
+    opacity: 0;
+    transform: translateY(60px);
+    transition: 0.5s;
+}
+
+#iconfb7:hover:before{
+    opacity: 1;
+}
+
+.xyz:hover #iconfb7{
+    opacity: 1;
+    transform: translateY(0);
+}
+#iconmap6:hover:before{
+    opacity: 1;
+}
+
+.xyz:hover #iconmap6{
+    opacity: 1;
+    transform: translateY(0);
+}
+/*==========================================*/
+.card-body{
+    opacity: 1;
+    transform: translateY(0);
+}
+#iconfb8{
+    opacity: 0;
+    border-radius: 100%;
+    transform: translateY(60px);
+    transition: 0.5s;
+}
+#iconmap7{
+    border-radius: 100%;
+    opacity: 0;
+    transform: translateY(60px);
+    transition: 0.5s;
+}
+
+#iconfb8:hover:before{
+    opacity: 1;
+}
+
+.xyz:hover #iconfb8{
+    opacity: 1;
+    transform: translateY(0);
+}
+#iconmap7:hover:before{
+    opacity: 1;
+}
+
+.xyz:hover #iconmap7{
+    opacity: 1;
+    transform: translateY(0);
+}
+/*==========================================*/
+.card-body{
+    opacity: 1;
+    transform: translateY(0);
+}
+#iconfb3{
+    opacity: 0;
+    border-radius: 100%;
+    transform: translateY(60px);
+    transition: 0.5s;
+}
+#iconmap2{
+    border-radius: 100%;
+    opacity: 0;
+    transform: translateY(60px);
+    transition: 0.5s;
+}
+
+#iconfb3:hover:before{
+    opacity: 1;
+}
+
+.xyz:hover #iconfb3{
+    opacity: 1;
+    transform: translateY(0);
+}
+#iconmap2:hover:before{
+    opacity: 1;
+}
+
+.xyz:hover #iconmap2{
+    opacity: 1;
+    transform: translateY(0);
+}
+/*==========================================*/
+.card-body{
+    opacity: 1;
+    transform: translateY(0);
+}
+#iconfb9{
+    opacity: 0;
+    border-radius: 100%;
+    transform: translateY(60px);
+    transition: 0.5s;
+}
+#iconmap8{
+    border-radius: 100%;
+    opacity: 0;
+    transform: translateY(60px);
+    transition: 0.5s;
+}
+
+#iconfb9:hover:before{
+    opacity: 1;
+}
+
+.xyz:hover #iconfb9{
+    opacity: 1;
+    transform: translateY(0);
+}
+#iconmap8:hover:before{
+    opacity: 1;
+}
+
+.xyz:hover #iconmap8{
+    opacity: 1;
+    transform: translateY(0);
+}

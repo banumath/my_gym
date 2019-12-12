@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <meta name="viewpoint"content="width-device-width,initial-scale=1">
+    <link rel="stylesheet" href="bootstrap-4.3.1-dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="Jquary/jquery-3.4.1.min.js">
+    <link rel="stylesheet" href="other/normalize.css">
+    <style>
+        header{
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+        }
+        header>div>div{
+            background-color: #0c5460;
+            position: fixed;
+            width: 100vw;
+        }
+        header>div>div>div:nth-child(1)>button{
+            display:inline;
+            margin-bottom: 10px;
+            margin-top: 10px;
+        }
+        header>div>div>div:nth-child(2){
+            align-items: center;
+        }
+        header>div>div>div:nth-child(2)>h5{
+            display:inline;
+            margin-bottom: 10px;
+            margin-top: 10px;
+        }
+        header>div>div>div:nth-child(2)>img{
+            width: 40px;
+            margin-bottom: 10px;
+            margin-top: 10px;
+        }
+        header>div>div>div:nth-child(3)>form>input{
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+        header>div>div>div:nth-child(4)>button{
+            border-radius: 100px;
+            width: 45px;
+            margin: 10px;
+        }
+        header>div>div>div:nth-child(4){
+            justify-content: space-around;
+            align-content: center;
+        }
+        section>div>div>nav{
+            top: 9vh;
+            position: fixed;
+            height: 91vh;
+            background-color: #ff253a;
+        }
+    </style>
+</head>
+<body>
+<header>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-1">
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"><img src="image/icons8_Menu_64px.png" alt=""style="width: 25px"></span>
+                </button>
+            </div>
+            <div class="col-lg-2 col-md-2 col-sm-2">
+                <img src="image/icons8_Barbell_48px.png" alt="">
+                <h5>My Gym</h5>
+            </div>
+            <div class="col-lg-6">
+                <form class="form-inline">
+                    <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search"style="width: 550px">
+                    <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+                </form>
+            </div>
+            <div class="col-lg-3">
+                <button type="button" class="btn btn-outline-secondary"><img src="image/icons8_Notification_50px.png" alt=""style="width: 20px"></button>
+                <button type="button" class="btn btn-outline-secondary"><img src="image/icons8_Comments_52px.png" alt=""style="width: 20px"></button>
+                <button type="button" class="btn btn-outline-secondary"><img src="image/icons8_User_50px.png" alt=""style="width: 20px"></button>
+            </div>
+        </div>
+    </div>
+</header>
+<section>
+    <div class="row">
+        <div class="col-lg-1">
+            <nav class="nav flex-column">
+                <a class="nav-link active" href="#">Active</a>
+                <a class="nav-link" href="#">Link</a>
+                <a class="nav-link" href="#">Link</a>
+                <a class="nav-link disabled" href="#">Disabled</a>
+            </nav>
+        </div>
+    </div>
+</section>
+<footer>
+
+</footer>
+<script src="Jquary/jquery-3.4.1.min.js"></script>
+<script src="bootstrap-4.3.1-dist/js/bootstrap.js"></script>
+</body>
+</html>
